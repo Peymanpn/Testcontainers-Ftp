@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FtpPlayground/FtpPlayground.csproj" />
+  <Project Path="TestProject/TestProject.csproj" />
+</Solution>
